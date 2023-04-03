@@ -1,0 +1,20 @@
+2023-04-03 02:21:09.285464 - Initialized conversion of CBT746
+2023-04-03 02:21:09.467116 - Received CBT.V504.FILE746.PDS from FILE746.XMI 
+2023-04-03 02:21:09.469697 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE746.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:21:09.472327 - De-xmi-ed $$DOC to CBT746/docs/$$DOC.doc
+2023-04-03 02:21:09.473420 - Found $CBTTXT.txt (text/plain) in CBT.V504.FILE746.PDS, moved to PDS/$CBTTXT
+2023-04-03 02:21:09.473431 - Found $PLATFMS.zip (application/zip), trying to unzip
+2023-04-03 02:21:09.473706 - Found $PLATFMS.zip (application/zip), extracting to CBT746/$PLATFMS
+2023-04-03 02:21:09.486133 - Found $README.txt (text/plain) in CBT.V504.FILE746.PDS, moved to PDS/$README
+2023-04-03 02:21:09.487344 - Found $TSORECV.jcl (text/plain) in CBT.V504.FILE746.PDS, moved to PDS/$TSORECV
+2023-04-03 02:21:09.488411 - Found @FILE746.txt (text/plain) in CBT.V504.FILE746.PDS, moved to PDS/@FILE746
+2023-04-03 02:21:09.489481 - Found BLDSAMPL.jcl (text/plain) in CBT.V504.FILE746.PDS, moved to PDS/BLDSAMPL
+2023-04-03 02:21:09.490469 - Found BLDTOOLS.jcl (text/plain) in CBT.V504.FILE746.PDS, moved to PDS/BLDTOOLS
+2023-04-03 02:21:09.521262 - Found JCL.xmi (application/xmit) in CBT.V504.FILE746.PDS
+2023-04-03 02:21:09.531557   - Received to CBT746/RTI.JCL
+2023-04-03 02:21:09.555688 - Found LOADLIB.xmi (application/xmit) in CBT.V504.FILE746.PDS
+2023-04-03 02:21:09.574101   - Received RECFM=U data, stored XMIT file as CBT746/LOADLIB.xmi
+2023-04-03 02:21:09.747064 - Found MACLIB.xmi (application/xmit) in CBT.V504.FILE746.PDS
+2023-04-03 02:21:09.774596   - Received to CBT746/RTI.MACLIB
+2023-04-03 02:21:09.866721 - Found SOURCE.xmi (application/xmit) in CBT.V504.FILE746.PDS
+2023-04-03 02:21:09.881525   - Received to CBT746/RTI.SOURCE
