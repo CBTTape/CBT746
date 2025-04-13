@@ -1,0 +1,61 @@
+2025-04-13 22:30:57.844168 - Received CBT.V508.FILE746.PDS from FILE746.XMI 
+2025-04-13 22:30:57.845298 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE746.PDS, moved to PDS/$$$#DATE
+2025-04-13 22:30:57.845775 - Found $$DOC.doc (application/msword) in CBT.V508.FILE746.PDS, moved to docs/$$DOC.doc
+2025-04-13 22:30:57.845880 - Found $CBTTXT.txt (text/plain) in CBT.V508.FILE746.PDS, moved to PDS/$CBTTXT
+2025-04-13 22:30:57.856100 - Found $PLATFMS.zip (application/zip) in CBT.V508.FILE746.PDS, moved to $PLATFMS
+2025-04-13 22:30:57.856240 - Found $README.txt (text/plain) in CBT.V508.FILE746.PDS, moved to PDS/$README
+2025-04-13 22:30:57.856337 - Found $TSORECV.jcl (text/plain) in CBT.V508.FILE746.PDS, moved to PDS/$TSORECV
+2025-04-13 22:30:57.856424 - Found @FILE746.txt (text/plain) in CBT.V508.FILE746.PDS, moved to PDS/@FILE746
+2025-04-13 22:30:57.856488 - Found BLDSAMPL.jcl (text/plain) in CBT.V508.FILE746.PDS, moved to PDS/BLDSAMPL
+2025-04-13 22:30:57.856548 - Found BLDTOOLS.jcl (text/plain) in CBT.V508.FILE746.PDS, moved to PDS/BLDTOOLS
+2025-04-13 22:30:57.856616 - Found JCL.xmi (application/xmit) in CBT.V508.FILE746.PDS, moved to PDS/JCL.xmi
+2025-04-13 22:30:57.884438 - Received RTI.JCL from JCL.xmi 
+2025-04-13 22:30:57.885031 - Found BLDSAMPL.jcl (text/plain) in RTI.JCL, moved to JCL/BLDSAMPL
+2025-04-13 22:30:57.885099 - Found BLDTOOLS.jcl (text/plain) in RTI.JCL, moved to JCL/BLDTOOLS
+2025-04-13 22:30:57.885170 - Found T@INTRPT.jcl (text/plain) in RTI.JCL, moved to JCL/T@INTRPT
+2025-04-13 22:30:57.885253 - Found T@PARSE.jcl (text/plain) in RTI.JCL, moved to JCL/T@PARSE
+2025-04-13 22:30:57.885320 - Found T@SYNTXC.jcl (text/plain) in RTI.JCL, moved to JCL/T@SYNTXC
+2025-04-13 22:30:57.885585 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE746.PDS, moved to PDS/LOADLIB.xmi
+2025-04-13 22:30:57.905871 - Received RTI.LOADLIB from LOADLIB.xmi 
+2025-04-13 22:30:57.906531 - Found #PUTMSG.bin (application/octet-stream) in RTI.LOADLIB, moved to LOADLIB/#PUTMSG
+2025-04-13 22:30:57.906606 - Found @INTRPRT.bin (application/octet-stream) in RTI.LOADLIB, moved to LOADLIB/@INTRPRT
+2025-04-13 22:30:57.906673 - Found @PARSE.bin (application/octet-stream) in RTI.LOADLIB, moved to LOADLIB/@PARSE
+2025-04-13 22:30:57.906744 - Found @SYNTXCK.bin (application/octet-stream) in RTI.LOADLIB, moved to LOADLIB/@SYNTXCK
+2025-04-13 22:30:57.906811 - Found T@INTRPT.bin (application/octet-stream) in RTI.LOADLIB, moved to LOADLIB/T@INTRPT
+2025-04-13 22:30:57.906884 - Found T@PARSE.bin (application/octet-stream) in RTI.LOADLIB, moved to LOADLIB/T@PARSE
+2025-04-13 22:30:57.906948 - Found T@SYNTBL.bin (application/octet-stream) in RTI.LOADLIB, moved to LOADLIB/T@SYNTBL
+2025-04-13 22:30:57.907007 - Found T@SYNTXC.bin (application/octet-stream) in RTI.LOADLIB, moved to LOADLIB/T@SYNTXC
+2025-04-13 22:30:57.907068 - Found T@SYTBL.bin (application/octet-stream) in RTI.LOADLIB, moved to LOADLIB/T@SYTBL
+2025-04-13 22:30:57.907127 - Found T@SYTXC.bin (application/octet-stream) in RTI.LOADLIB, moved to LOADLIB/T@SYTXC
+2025-04-13 22:30:57.907185 - Found T@UEXITS.bin (application/octet-stream) in RTI.LOADLIB, moved to LOADLIB/T@UEXITS
+2025-04-13 22:30:57.907670 - Found MACLIB.xmi (application/xmit) in CBT.V508.FILE746.PDS, moved to PDS/MACLIB.xmi
+2025-04-13 22:30:58.071122 - Received RTI.MACLIB from MACLIB.xmi 
+2025-04-13 22:30:58.072414 - Found #ENTRY.txt (text/plain) in RTI.MACLIB, moved to MACLIB/#ENTRY
+2025-04-13 22:30:58.072550 - Found #GENMFE.txt (text/plain) in RTI.MACLIB, moved to MACLIB/#GENMFE
+2025-04-13 22:30:58.072670 - Found #GENMFL.txt (text/plain) in RTI.MACLIB, moved to MACLIB/#GENMFL
+2025-04-13 22:30:58.072781 - Found #GENMSG.txt (text/plain) in RTI.MACLIB, moved to MACLIB/#GENMSG
+2025-04-13 22:30:58.072888 - Found #OWNER.txt (text/plain) in RTI.MACLIB, moved to MACLIB/#OWNER
+2025-04-13 22:30:58.072999 - Found #POP.txt (text/plain) in RTI.MACLIB, moved to MACLIB/#POP
+2025-04-13 22:30:58.073109 - Found #PUSH.txt (text/plain) in RTI.MACLIB, moved to MACLIB/#PUSH
+2025-04-13 22:30:58.073210 - Found #PUTMSG.txt (text/plain) in RTI.MACLIB, moved to MACLIB/#PUTMSG
+2025-04-13 22:30:58.073275 - Found #REGS.txt (text/plain) in RTI.MACLIB, moved to MACLIB/#REGS
+2025-04-13 22:30:58.073339 - Found #STACK.txt (text/plain) in RTI.MACLIB, moved to MACLIB/#STACK
+2025-04-13 22:30:58.073402 - Found @DEFTOKN.txt (text/plain) in RTI.MACLIB, moved to MACLIB/@DEFTOKN
+2025-04-13 22:30:58.073474 - Found @DELIM.txt (text/plain) in RTI.MACLIB, moved to MACLIB/@DELIM
+2025-04-13 22:30:58.073533 - Found @DELIMST.txt (text/plain) in RTI.MACLIB, moved to MACLIB/@DELIMST
+2025-04-13 22:30:58.073596 - Found @INTRPRT.txt (text/plain) in RTI.MACLIB, moved to MACLIB/@INTRPRT
+2025-04-13 22:30:58.073670 - Found @PARSE.txt (text/plain) in RTI.MACLIB, moved to MACLIB/@PARSE
+2025-04-13 22:30:58.073753 - Found @RULE.txt (text/plain) in RTI.MACLIB, moved to MACLIB/@RULE
+2025-04-13 22:30:58.073827 - Found @SYNTXCK.txt (text/plain) in RTI.MACLIB, moved to MACLIB/@SYNTXCK
+2025-04-13 22:30:58.073889 - Found @TOKEN.txt (text/plain) in RTI.MACLIB, moved to MACLIB/@TOKEN
+2025-04-13 22:30:58.074466 - Found SOURCE.xmi (application/xmit) in CBT.V508.FILE746.PDS, moved to PDS/SOURCE.xmi
+2025-04-13 22:30:58.161842 - Received RTI.SOURCE from SOURCE.xmi 
+2025-04-13 22:30:58.162602 - Found #PUTMSG.txt (text/plain) in RTI.SOURCE, moved to SOURCE/#PUTMSG
+2025-04-13 22:30:58.162684 - Found @INTRPRT.txt (text/plain) in RTI.SOURCE, moved to SOURCE/@INTRPRT
+2025-04-13 22:30:58.162758 - Found @PARSE.txt (text/plain) in RTI.SOURCE, moved to SOURCE/@PARSE
+2025-04-13 22:30:58.162828 - Found @SYNTXCK.txt (text/plain) in RTI.SOURCE, moved to SOURCE/@SYNTXCK
+2025-04-13 22:30:58.162896 - Found T@INTRPT.txt (text/plain) in RTI.SOURCE, moved to SOURCE/T@INTRPT
+2025-04-13 22:30:58.162960 - Found T@PARSE.txt (text/plain) in RTI.SOURCE, moved to SOURCE/T@PARSE
+2025-04-13 22:30:58.163020 - Found T@SYNTBL.txt (text/plain) in RTI.SOURCE, moved to SOURCE/T@SYNTBL
+2025-04-13 22:30:58.163089 - Found T@SYNTXC.txt (text/plain) in RTI.SOURCE, moved to SOURCE/T@SYNTXC
+2025-04-13 22:30:58.163169 - Found T@UEXITS.txt (text/plain) in RTI.SOURCE, moved to SOURCE/T@UEXITS
